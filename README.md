@@ -5,3 +5,5 @@
 ### My Name is **Seung Ju Yun**, and I am a piano major.
 
 This is my first GitHub repository.
+
+<img src="F. Chopin Sonata No.2-1.png">
